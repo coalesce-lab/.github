@@ -9,4 +9,4 @@ The COALESCE Lab is a research group dedicated to studying processes of social c
 
 Learn `git` and GitHub using the following materials:
 
-- [Happy Git and GitHub with R](https://happygitwithr.com) -- A nice online book and reference tuned towards R users, but very helpful even if you don't use R. The [resource section](https://happygitwithr.com/resources.html) of that book contains useful links too.
+- [Happy Git and GitHub with R](https://happygitwithr.com) -- A nice online book and reference tuned towards R users, but very helpful even if you don't use R. The [Resources section](https://happygitwithr.com/resources.html) of that book contains useful links too.
